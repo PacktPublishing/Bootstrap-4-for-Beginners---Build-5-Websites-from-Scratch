@@ -1,0 +1,18 @@
+https://codepen.io/discoveryvip/pen/PKaoVq?editors=1001
+
+<div class="text-primary text-hide">Hello world</div>
+<div class="text-mute">Hello world</div>
+<div class="text-success text-capitalize">Hello world</div>
+<div class="text-info text-uppercase text-sm-center">Hello world</div>
+<div class="text-danger text-lowercase">Hello world</div>
+<div class="text-warning text-center">Hello world</div>
+<div class="bg-primary w-25 d-inline-block text-white">Hello world</div>
+<div class="bg-success w-25 d-inline-block text-white">Hello world</div>
+<div class="bg-info w-25 d-inline-block text-white">Hello world</div>
+<div class="bg-danger text-white">Hello world</div>
+<div class="bg-warning text-white">Hello world</div>
+<div class="bg-faded text-white">Hello world</div>
+
+<div class="bg-primary text-white ">Lorem ipsum dolor sit amet, <span class="font-weight-bold font-italic">consectetuer adipiscing elit.</span> Aenean commodo ligula eget dolor. <span class="d-block font-weight-bold">HELLO WORLD</span> <span class="d-block">HELLO WORLD</span>Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, </div>
+<div class="bg-primary text-white text-nowrap">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,Hello world Hello world Hello world Hello world Hello world </div>
+<div class="bg-primary text-white text-justify">HLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,ld Hello world Hello world Hello world Hello world Hello world </div>

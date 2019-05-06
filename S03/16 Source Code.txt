@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <style>
+    .row div {
+      border: 1px solid black;
+      height: 200px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- 3,2,4,1 -->
+    <div class="row">
+      <div class="col order-4">Col 1</div>
+      <div class="col order-2">Col 2</div>
+      <div class="col order-1">Col 3</div>
+      <div class="col order-3">Col 4</div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-2 ml-auto">Col 1</div>
+      <div class="col-sm-4 mr-auto">Col 2</div>
+    </div>
+
+    <div class="row">
+      <div class="col order-sm-2">Col 1</div>
+      <div class="col order-sm-9">Col 2</div>
+      <div class="col">Col 3</div>
+    </div>
+
+    <div class="row no-gutters">
+      <div class="col">Col 1</div>
+      <div class="col">Col 2</div>
+      <div class="col">Col 3</div>
+      <div class="bg-primary w-100 ">Content</div>
+      <div class="col">Col 4</div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-12">Col 1*</div>
+      <div class="col-sm-5">Col 2</div>
+      <div class="col-sm-5">Col 3</div>
+    </div>
+    <div class="row">
+      <div class="col-lg">Col 1</div>
+      <div class="col-md">Col 2</div>
+      <div class="col-xl">Col 3</div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-md col-lg-6">Col 1</div>
+      <div class="col-sm-8 col-md col-lg-4">Col 2</div>
+      <div class="col-sm-2 col-md col-lg-2">Col 3</div>
+    </div>
+
+  </div>
+
+</body>
+
+</html>

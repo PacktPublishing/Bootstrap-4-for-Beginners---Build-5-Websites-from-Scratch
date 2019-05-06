@@ -1,0 +1,92 @@
+Challenge
+
+    <div class="row">
+        <div class="col-sm-7">Col 1</div> <!-- span 7 columns -->
+        <div class="col">Col 2</div> <!-- span the rest without specific column values -->
+      </div>
+
+      <div class="row">
+        <div class="">Col 1</div> <!-- 50% -->
+        <div class="">Col 2</div> <!-- 50% -->
+        <div class="">Col 3</div> <!-- full width -->
+        <div class="">Col 4</div> <!-- full width -->
+      </div>
+
+Solution
+
+      <div class="row">
+        <div class="col-sm-7">Col 1</div> <!-- span 7 columns -->
+        <div class="col">Col 2</div> <!-- span the rest without specific column values -->
+      </div>
+
+      <div class="row">
+        <div class="col-sm-6">Col 1</div> <!-- 50% -->
+        <div class="col-sm-6">Col 2</div> <!-- 50% -->
+        <div class="w-100">Col 3</div> <!-- full width -->
+        <div class="col">Col 4</div> <!-- full width -->
+      </div>
+
+Source Code
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+
+    <link rel="stylesheet" href="css/bootstrap.min.css"  >
+    <style>
+      .row div{ border:1px solid black;}
+    </style>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <div class="row">
+        <div class="col-sm-7">Col 1</div> <!-- span 7 columns -->
+        <div class="col">Col 2</div> <!-- span the rest without specific column values -->
+      </div>
+
+      <div class="row">
+        <div class="col">Col 1</div> <!-- 50% -->
+        <div class="col">Col 2</div> <!-- 50% -->
+        <div class="w-100">Col 3</div> <!-- full width -->
+        <div class="col">Col 4</div> <!-- full width -->
+      </div>
+
+      <div class="row">
+        <div class="col-sm-6">Col 1</div>
+        <div class="col-sm-6">Col 2</div>
+      </div>
+
+      <div class="row">
+        <div class="col">Col 1</div>
+        <div class="col">Col 2</div>
+        <div class="col">Col 3</div>
+        <div class="bg-primary w-100 ">Content</div>
+        <div class="col">Col 4</div>
+      </div>
+      <div class="row">
+        <div class="col-sm">Col 1</div>
+        <div class="col-sm">Col 2</div>
+        <div class="col-sm">Col 3</div>
+      </div>
+      <div class="row">
+        <div class="col-lg">Col 1</div>
+        <div class="col-md">Col 2</div>
+        <div class="col-xl">Col 3</div>
+      </div>
+      <div class="row">
+        <div class="col-sm-2 col-md col-lg-6">Col 1</div>
+        <div class="col-sm-8 col-md col-lg-4">Col 2</div>
+        <div class="col-sm-2 col-md col-lg-2">Col 3</div>
+      </div>
+
+    </div>
+
+  </body>
+</html>

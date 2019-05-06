@@ -1,0 +1,16 @@
+<div class="alert alert-success">
+  <p>Welcome to my page</p>
+</div>
+<div class="alert alert-warning alert-dismissible" role="alert">
+  <button type="button" class="close" data-dismiss="alert">
+    <span>x</span>
+  </button>
+  <p>Welcome to my page</p>
+</div>
+<div class="alert alert-danger">
+  <h3 class="alert-heading">welcome</h3>
+  <p>Welcome to my page</p>
+</div>
+<div class="alert alert-info">
+  <p>Welcome to my page</p>
+</div>

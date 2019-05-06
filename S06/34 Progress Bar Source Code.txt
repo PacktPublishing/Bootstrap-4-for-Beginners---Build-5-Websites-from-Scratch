@@ -1,0 +1,13 @@
+<div class="progress">
+  <div class="progress-bar w-50 bg-success" role="progressbar" style="height: 25px;">50%</div>
+  <div class="progress-bar w-50 bg-warning" role="progressbar" style="height: 25px;">50%</div>
+</div>
+<div class="progress">
+  <div class="progress-bar w-50 bg-danger progress-bar-striped" role="progressbar" style="height: 75px;">50%</div>
+  <div class="progress-bar w-50" role="progressbar" style="height: 25px;">50%</div>
+</div>
+
+<div class="progress">
+  <div class="progress-bar w-50 bg-danger progress-bar-striped progress-bar-animated" role="progressbar" style="height: 75px;">50%</div>
+
+</div>

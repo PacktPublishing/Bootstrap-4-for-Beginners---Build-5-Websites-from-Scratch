@@ -1,0 +1,25 @@
+https://codepen.io/discoveryvip/pen/NvMNeK
+
+
+
+<div class="btn-group btn-group-vertical btn-group-lg" data-toggle="buttons">
+  <label class="btn btn-primary active">
+    <input type="checkbox" checked > Check 1
+  </label>
+  <label class="btn btn-primary">
+    <input type="checkbox"  > Check 2
+  </label>
+  <label class="btn btn-primary">
+    <input type="checkbox"  > Check 3
+  </label>
+</div>
+
+<div class="btn-group" data-toggle="buttons">
+  <label class="btn btn-danger active">
+    <input type="radio" name="radio1" id="radio1"  checked >Yes
+  </label>
+  <label class="btn btn-danger">
+    <input type="radio" name="radio1" id="radio2" > No
+  </label>
+
+</div>

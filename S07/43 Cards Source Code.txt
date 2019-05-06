@@ -1,0 +1,127 @@
+<div class="card w-50" >
+  <img src="http://via.placeholder.com/350x150" class="img-fluid img-thumbnail">
+  <div class="card-block">
+    <div class="card-title h3">Title</div>
+    <div class="card-text">Hello world text</div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+
+    <div class="col">
+      <div class="card ">
+        <div class="card-block">Lorem ipsum dolor</div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="card text-center">
+        <div class="card-header h2">Header</div>
+        <div class="card-block">
+          <div class="card-title h3">Title</div>
+          <div class="card-text ">
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+              pretium
+            </p>
+            <a href="" class="btn btn-primary">Click</a>
+          </div>
+        </div>
+        <div class="card-footer text-muted">footer </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <img src="http://via.placeholder.com/350x150">
+        <div class="card-img-overlay">
+          <div class="card-title h3">Title</div>
+          <div class="card-text">
+            Lorem ipsum dolor sit amet,
+
+            <a href="" class="btn btn-primary">Click</a>
+          </div>
+        </div>
+        <div class="card-footer text-muted">footer </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card-columns">
+  <div class="card ">
+    <div class="card-block">Lorem ipsum dolor</div>
+  </div>
+
+  <div class="card text-center">
+    <div class="card-header h2">Header</div>
+    <div class="card-block">
+      <div class="card-title h3">Title</div>
+      <div class="card-text ">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
+        </p>
+        <a href="" class="btn btn-primary">Click</a>
+      </div>
+    </div>
+    <div class="card-footer text-muted">footer </div>
+  </div>
+  <div class="card text-center">
+    <div class="card-header h2">Header</div>
+    <div class="card-block">
+      <div class="card-title h3">Title</div>
+      <div class="card-text ">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
+        </p>
+        <a href="" class="btn btn-primary">Click</a>
+      </div>
+    </div>
+    <div class="card-footer text-muted">footer </div>
+  </div>
+  <div class="card text-center">
+    <div class="card-header h2">Header</div>
+    <div class="card-block">
+      <div class="card-title h3">Title</div>
+      <div class="card-text ">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
+        </p>
+        <a href="" class="btn btn-primary">Click</a>
+      </div>
+    </div>
+    <div class="card-footer text-muted">footer </div>
+  </div>
+  <div class="card text-center">
+    <div class="card-header h2">Header</div>
+    <div class="card-block">
+      <div class="card-title h3">Title</div>
+      <div class="card-text ">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
+        </p>
+        <a href="" class="btn btn-primary">Click</a>
+      </div>
+    </div>
+    <div class="card-footer text-muted">footer </div>
+  </div>
+  <div class="card text-center">
+    <div class="card-header h2">Header</div>
+    <div class="card-block">
+      <div class="card-title h3">Title</div>
+      <div class="card-text ">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
+        </p>
+        <a href="" class="btn btn-primary">Click</a>
+      </div>
+    </div>
+    <div class="card-footer text-muted">footer </div>
+  </div>
+  <div class="card">
+    <img src="http://via.placeholder.com/350x150">
+    <div class="card-img-overlay">
+      <div class="card-title h3">Title</div>
+      <div class="card-text">
+        Lorem ipsum dolor sit amet,
+
+        <a href="" class="btn btn-primary">Click</a>
+      </div>
+    </div>
+    <div class="card-footer text-muted">footer </div>
+  </div>
+</div>

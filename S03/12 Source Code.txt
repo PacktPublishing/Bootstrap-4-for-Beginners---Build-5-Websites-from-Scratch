@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <style>
+      .row div{ border:1px solid black;}
+    </style>
+  </head>
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">Col 1</div>
+        <div class="col-sm-6">Col 2</div>
+      </div>
+
+      <div class="row">
+        <div class="col">Col 1</div>
+        <div class="col">Col 2</div>
+        <div class="col">Col 3</div>
+        <div class="col">Col 4</div>
+      </div>
+      <div class="row">
+        <div class="col-sm">Col 1</div>
+        <div class="col-sm">Col 2</div>
+        <div class="col-sm">Col 3</div>
+      </div>
+      <div class="row">
+        <div class="col-lg">Col 1</div>
+        <div class="col-md">Col 2</div>
+        <div class="col-xl">Col 3</div>
+      </div>
+      <div class="row">
+        <div class="col-sm-2">Col 1</div>
+        <div class="col-sm-8">Col 2</div>
+        <div class="col-sm-2">Col 3</div>
+      </div>
+
+    </div>
+
+
+  </body>
+</html>

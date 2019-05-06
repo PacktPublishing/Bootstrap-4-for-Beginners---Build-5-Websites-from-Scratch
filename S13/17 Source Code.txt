@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <!-- http://fontawesome.io/icon/twitter-square/ -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="style.css" rel="stylesheet"> </head>
+
+<body>
+    <nav class="navbar navbar-expand-md  navbar-dark red">
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#myNav"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="myNav">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="portfolio.html" class="nav-link">Portfolio</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div>
+        <div class="container">
+            <h1 class="text-md-left">About Page</h1>
+            <div class="row">
+                <div class="col">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, <span class="btn btn-outline-dark" data-toggle="collapse" href="#moreInfo">More</span>
+                    <div class="collapse" id="moreInfo"> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
+                </div>
+                <div class="col"><img src="http://via.placeholder.com/1350x1350" class="img-fluid"></div>
+            </div>
+        </div>
+    </div>
+    <footer class="container-fluid red text-light mt-3">
+        <p class="text-center">© 2017 discoveryvip</p>
+        <div class="text-center">
+            <ul class="list-inline">
+                <li class="list-inline-item"><a href="" target="_blank"><i class="fa fa-youtube-square fa-inverse" aria-hidden="true"></i></a></li>
+                <li class="list-inline-item"><a href="" target="_blank"><i class="fa fa-twitter-square  fa-inverse" aria-hidden="true"></i></a></li>
+                <li class="list-inline-item"><a href="" target="_blank"><i class="fa fa-facebook-square fa-inverse" aria-hidden="true"></i></a></li>
+            </ul>
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+</body>
+
+</html>

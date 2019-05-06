@@ -1,0 +1,47 @@
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 100%;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+
+
+Extra small
+<576px	Small
+=576px	Medium
+=768px	Large
+=992px	Extra large
+=1200px
+Max container width	None (auto)	540px	720px	960px	1140px
+Class prefix	.col-	.col-sm-	.col-md-	.col-lg-	.col-xl-
+# of columns	12
+Gutter width	30px (15px on each side of a column)
+Nestable	Yes
+Column ordering	Yes
+https://getbootstrap.com/docs/4.0/layout/grid/

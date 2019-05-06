@@ -1,0 +1,12 @@
+<div class="text-primary">Hello world</div>
+<div class="text-mute">Hello world</div>
+<div class="text-success">Hello world</div>
+<div class="text-info">Hello world</div>
+<div class="text-danger">Hello world</div>
+<div class="text-warning">Hello world</div>
+<div class="bg-primary text-white">Hello world</div>
+<div class="bg-success text-white">Hello world</div>
+<div class="bg-info text-white">Hello world</div>
+<div class="bg-danger text-white">Hello world</div>
+<div class="bg-warning text-white">Hello world</div>
+<div class="bg-faded text-white">Hello world</div>
